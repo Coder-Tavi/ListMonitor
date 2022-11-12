@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "@discordjs/rest": "1.2.0",
-    "discord-api-types": "0.37.11",
-    "discord.js": "14.5.0",
+    "discord-api-types": "0.37.17",
+    "discord.js": "14.6.0",
     "mysql2": "2.3.3",
-    "sequelize": "6.23.2"
+    "rcon": "1.1.0",
+    "sequelize": "6.25.5"
   },
   "devDependencies": {
-    "eslint": "8.24.0"
+    "eslint": "8.27.0"
   }
 }
