@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "discord-api-types": "0.37.17",
+    "discord-api-types": "0.37.27",
     "discord.js": "14.6.0",
     "mysql2": "2.3.3",
     "rcon": "1.1.0",
